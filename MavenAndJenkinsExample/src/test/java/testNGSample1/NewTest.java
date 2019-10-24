@@ -15,9 +15,6 @@ public class NewTest {
 	    private WebDriver driver;		
 		@Test				
 		public void testEasy() {
-			
-			
-			
 				
 			driver.get("https://google.co.in/"); 
 			driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
