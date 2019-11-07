@@ -20,7 +20,7 @@ public class DuplicateCharactersExample {
 	            }    
 	            //A character is considered as duplicate if count is greater than 1    
 	            if(count > 1 && string[i] != '0')    
-	                System.out.println(string[i] + "   No of occurances = "+count);    
+	                System.out.println("Alphabet '"+string[i] + "' is repeated and No of its occurances is = "+count);    
 	        }    
 	    }    
 }
