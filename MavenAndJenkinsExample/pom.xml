@@ -104,6 +104,13 @@
 			<artifactId>AppleJavaExtensions</artifactId>
 			<version>1.4</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.paulhammant/ngwebdriver -->
+		<dependency>
+			<groupId>com.paulhammant</groupId>
+			<artifactId>ngwebdriver</artifactId>
+			<version>1.0</version>
+		</dependency>
+
 	</dependencies>
 	<build>
 		<pluginManagement>
@@ -134,7 +141,8 @@
 						<!-- <testClassesDirectory>s360UIAutomationCC/src/main/java</testClassesDirectory> -->
 						<testSourceDirectory>/MavenAndJenkinsExample/src/test/java/testNGSample1</testSourceDirectory>
 						<includes>
-							<include>**/*NewTest.java</include>
+							<!-- <include>**/*NewTest.java</include> -->
+							<include>**/*AngularWebDriver.java</include>
 						</includes>
 						<!-- <excludes> <exclude>**/*RunCukesTest.java</exclude> </excludes> -->
 						<!-- <suiteXmlFiles> <suiteXmlFile>testng.xml</suiteXmlFile> </suiteXmlFiles> -->

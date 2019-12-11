@@ -1,0 +1,29 @@
+15:46:58.231 [main] DEBUG com.test.Log4jExample - Identifying Draggable objects
+15:46:58.525 [main] INFO  com.test.Log4jExample - Drag and drop success
+15:48:37.314 [main] DEBUG com.test.Log4jExample - Setting chrome driver property
+15:48:39.087 [main] INFO  com.test.Log4jExample - Window Maximized
+15:48:39.088 [main] DEBUG com.test.Log4jExample - Now hitting Amazon server
+15:48:42.529 [main] INFO  com.test.Log4jExample - Landed on amazon home page
+15:48:46.874 [main] DEBUG com.test.Log4jExample - Getting the frames count
+15:48:46.896 [main] INFO  com.test.Log4jExample - Frames count retreived
+15:48:46.912 [main] INFO  com.test.Log4jExample - Successfully switched to frame
+15:48:46.912 [main] DEBUG com.test.Log4jExample - Identifying Draggable objects
+15:48:47.205 [main] INFO  com.test.Log4jExample - Drag and drop success
+12:52:34.239 [main] DEBUG com.test.Log4jExample - Setting chrome driver property
+12:52:36.701 [main] INFO  com.test.Log4jExample - Window Maximized
+12:52:36.702 [main] DEBUG com.test.Log4jExample - Now hitting Amazon server
+12:52:41.370 [main] INFO  com.test.Log4jExample - Landed on amazon home page
+12:52:46.176 [main] DEBUG com.test.Log4jExample - Getting the frames count
+12:52:46.196 [main] INFO  com.test.Log4jExample - Frames count retreived
+12:52:46.212 [main] INFO  com.test.Log4jExample - Successfully switched to frame
+12:52:46.212 [main] DEBUG com.test.Log4jExample - Identifying Draggable objects
+12:52:46.502 [main] INFO  com.test.Log4jExample - Drag and drop success
+13:44:08.644 [main] DEBUG com.test.Log4jExample - Setting chrome driver property
+13:44:12.809 [main] INFO  com.test.Log4jExample - Window Maximized
+13:44:12.809 [main] DEBUG com.test.Log4jExample - Now hitting Amazon server
+13:44:15.614 [main] INFO  com.test.Log4jExample - Landed on amazon home page
+13:44:21.129 [main] DEBUG com.test.Log4jExample - Getting the frames count
+13:44:21.151 [main] INFO  com.test.Log4jExample - Frames count retreived
+13:44:21.167 [main] INFO  com.test.Log4jExample - Successfully switched to frame
+13:44:21.247 [main] DEBUG com.test.Log4jExample - Identifying Draggable objects
+13:44:21.538 [main] INFO  com.test.Log4jExample - Drag and drop success
