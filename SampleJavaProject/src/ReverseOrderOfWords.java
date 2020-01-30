@@ -6,7 +6,7 @@ public class ReverseOrderOfWords {
 	public static void main(String args[]) {
 		System.out.println(ReverseOrderOfWords.reverseWords("My name is Anuradha Tripathi"));
 		
-		//System.out.println(ReverseOrderOfWords.reverseString("My name is Ashish Tripathi"));
+		System.out.println(ReverseOrderOfWords.reverseString("My name is Ashish Tripathi"));
 		
 	  }
 	 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="HYDDT0007-iMac.local" name="TestFramework.RESTAssuredUdemy.basics" tests="1" failures="0" timestamp="30 Jan 2020 05:25:55 GMT" time="3.945" errors="0">
+  <testcase name="getPlaceAPI" time="3.905" classname="TestFramework.RESTAssuredUdemy.basics"/>
+</testsuite>
